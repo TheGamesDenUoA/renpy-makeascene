@@ -15,5 +15,11 @@ label start:
     call scene_alexk
     call scene_sjkillen
 
+    call whydidwemakethis
+
+    call scene002
+
+    # Calls the end scene
+    call end
 
     return
