@@ -8,6 +8,9 @@ label start:
     # Call all the other scenes in between
     call scene001
 
+    # Jill vs Trumpter
+    call scene_wrennifer
+
     # Calls the end scene
     call end
 
