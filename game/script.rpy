@@ -2,14 +2,12 @@
 # The entry point for this game.
 label start:
 
-    # Calls the beginning scene
-    call beginning
+    call matt_scene1
 
-    # Call all the other scenes in between
-    call scene001
+    call sleepy_joe_enters
 
-    # Calls the end scene
-    call end
+    call sus
 
-    # This ends the game.
+    call meeting
+
     return
