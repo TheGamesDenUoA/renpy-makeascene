@@ -21,6 +21,9 @@ label start:
 
     call scene002
 
+    # Jill vs Trumpter
+    call scene_wrennifer
+
     # Calls the end scene
     call end
 
