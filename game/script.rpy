@@ -24,6 +24,8 @@ label start:
     # Jill vs Trumpter
     call scene_wrennifer
 
+    call the_minecraft_lets_play
+
     # Calls the end scene
     call end
 
