@@ -5,6 +5,7 @@ label start:
     # Calls the beginning scene
     call beginning
 
+    call pyramid
     # Call all the other scenes in between
     call scene001
 
