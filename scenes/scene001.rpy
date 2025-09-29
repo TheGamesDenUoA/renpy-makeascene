@@ -28,6 +28,8 @@ label scene001:
 
     t "Once you add a story, pictures, and music, you can release it to the world!"
 
+    t "This is a line being added through a pull request."
+
     # This ends the game.
 
     return
