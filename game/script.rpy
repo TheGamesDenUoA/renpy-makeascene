@@ -15,6 +15,7 @@ label start:
 
     call scene_alexk
     call scene_sjkillen
+    call scene_presidential
 
     call whydidwemakethis
 
