@@ -7,6 +7,10 @@ label start:
 
     # Call all the other scenes in between
     call scene001
+    call scene_lucia
+
+    call scene_alexk
+    call scene_sjkillen
 
     # Jill vs Trumpter
     call scene_wrennifer
